@@ -1,4 +1,5 @@
 # Notebook_CV_LLM 智能体描述
+<img width="1421" alt="Clipboard_Screenshot_1740494041" src="https://github.com/user-attachments/assets/48bd43be-1356-4910-9290-e316e621f9b3" />
 ## 核心定位
 一款专注简历优化与面试准备的AI辅助工具，采用模块化设计提升求职效率
 
@@ -38,5 +39,4 @@
 - 🧠 基于LLM的自然语言理解引擎
 - 🔍 CV解析与岗位匹配算法
 - 🎤 面试场景语义分析模型
-<img width="1421" alt="Clipboard_Screenshot_1740494041" src="https://github.com/user-attachments/assets/48bd43be-1356-4910-9290-e316e621f9b3" />
 > ​**设计价值**：通过拟人化交互降低工具使用门槛，模块化架构兼顾功能深度与操作便捷性，特别适合应届毕业生及职场新人进行系统性求职准备。
